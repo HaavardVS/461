@@ -1,0 +1,14 @@
+ol li{
+    list-style: none;
+  padding: 10px;
+  margin: 20px;
+  width: 200px;
+  border-radius: 5px;
+  border-color: black;
+  background-color: cyan;
+  flex: active;
+  align-items: center;
+  
+}
+
+
